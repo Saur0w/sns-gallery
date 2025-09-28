@@ -4,5 +4,23 @@
     "title": "About Image",
     "description": "Beautiful about section image",
     "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759042510/about_bcwohq.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Photography Shot",
+    "description": "Stunning photography capture",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759056882/IMG_20230202_171644458_1_-02_ir8poe.jpg"
+  },
+  {
+    "id": 3,
+    "title": "WhatsApp Memory",
+    "description": "Beautiful captured moment",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759056967/IMG-20230302-WA0046_bdhxbw.jpg"
+  },
+  {
+    "id": 4,
+    "title": "March Snapshot",
+    "description": "Perfect timing photograph",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057012/IMG_2023-03-01_18_44_01_nl1wpr.jpg"
   }
 ]
