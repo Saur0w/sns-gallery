@@ -1,8 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Test Image",
-    "description": "Testing GitHub integration",
-    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/test.jpg"
+    "title": "Gallery Image 1",
+    "description": "Beautiful landscape",
+    "url": "https://your-cloudinary-or-image-url.com/image1.jpg"
+  },
+  {
+    "id": 2, 
+    "title": "Gallery Image 2",
+    "description": "Amazing sunset",
+    "url": "https://your-cloudinary-or-image-url.com/image2.jpg"
   }
 ]
