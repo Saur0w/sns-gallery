@@ -1,26 +1,284 @@
 [
   {
     "id": 1,
-    "title": "About Image",
-    "description": "Beautiful about section image",
-    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759042510/about_bcwohq.jpg"
+    "title": "Photography 1",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058283/image13_lnfwur.jpg"
   },
   {
     "id": 2,
-    "title": "Photography Shot",
-    "description": "Stunning photography capture",
-    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759056882/IMG_20230202_171644458_1_-02_ir8poe.jpg"
+    "title": "Photography 2",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058273/image28_xulasr.jpg"
   },
   {
     "id": 3,
-    "title": "WhatsApp Memory",
-    "description": "Beautiful captured moment",
-    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759056967/IMG-20230302-WA0046_bdhxbw.jpg"
+    "title": "Photography 3",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058273/image24_newoql.jpg"
   },
   {
     "id": 4,
-    "title": "March Snapshot",
-    "description": "Perfect timing photograph",
+    "title": "Photography 4",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058271/image27_izktlw.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Photography 5",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058269/image26_hhnfqj.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Photography 6",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058269/image25_hqfibv.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Photography 7",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058263/image21_m2baxj.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Photography 8",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058258/image12_tqrmcq.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Photography 9",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058254/image20_n5tgnu.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Photography 10",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058254/image23_rl7h2x.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Photography 11",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058248/image16_rwz5eu.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Photography 12",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058248/image22_oof3br.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Photography 13",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058245/image19_fyq1nv.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Photography 14",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058241/image15_xaaslk.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Photography 15",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058239/image17_ulth9t.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Photography 16",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058237/image18_dw5o35.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Photography 17",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058065/IMG_20250509_121842080_1_isxnfz.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Artistic Creation 18",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058064/Picsart_25-05-15_21-06-56-509_uxx2ix.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Artistic Creation 19",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058063/Picsart_25-08-15_09-00-43-638_pmnwqz.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Photography 20",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058058/IMG_6191_purn36.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Photography 21",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058057/IMG_20250813_150322470_w0mi2n.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Gallery Image 22",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058055/1000018358_rvqi3c.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Photography 23",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058050/IMG-20250814-WA021.jpg_zsncyy.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Photography 24",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058049/IMG_20250509_121706_782_zmcxed.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Photography 25",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058047/IMG-20250814-WA0020_lqi7gx.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Photography 26",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058045/IMG-20250814-WA0011_mrzwaw.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Photography 27",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058041/IMG_20250507_194419020_oshgxu.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Photography 28",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058040/IMG_20250629_144433854_1_hz54ri.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Photography 29",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759058037/IMG_20250628_191551507_iiyexl.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Artistic Creation 30",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057840/Picsart_25-07-26_18-37-28-335_vhilhh.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Artistic Creation 31",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057835/Picsart_25-08-14_12-22-38-215_xlixyx.png"
+  },
+  {
+    "id": 32,
+    "title": "Artistic Creation 32",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057832/Picsart_25-07-26_18-16-51-158_sgnx0f.png"
+  },
+  {
+    "id": 33,
+    "title": "Artistic Creation 33",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057814/Picsart_25-08-14_12-16-45-059_qv44f7.png"
+  },
+  {
+    "id": 34,
+    "title": "Artistic Creation 34",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057810/Picsart_25-08-14_11-52-44-000_y89ezm.png"
+  },
+  {
+    "id": 35,
+    "title": "Artistic Creation 35",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057807/Picsart_25-06-30_19-09-05-339_ol4rph.png"
+  },
+  {
+    "id": 36,
+    "title": "Artistic Creation 36",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057799/Picsart_25-07-25_17-15-49-368_oilsom.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Artistic Creation 37",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057793/Picsart_25-08-15_12-39-08-958_rxtf2m.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Artistic Creation 38",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057792/Picsart_25-08-14_20-49-32-961_nx0uh3.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Artistic Creation 39",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057791/Picsart_25-08-14_22-22-42-108_mpxqgl.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Artistic Creation 40",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057787/Picsart_25-08-14_20-49-29-719_t64y9z.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Artistic Creation 41",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057786/Picsart_25-08-14_10-14-44-856_ym8dtp.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Artistic Creation 42",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057785/Picsart_25-08-14_10-39-02-630_psqimk.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Artistic Creation 43",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057782/Picsart_25-08-14_10-29-59-699_s9zcwp.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Photography 44",
+    "description": "Beautiful gallery image showcasing amazing moments",
     "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759057012/IMG_2023-03-01_18_44_01_nl1wpr.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Photography 45",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759056967/IMG-20230302-WA0046_bdhxbw.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Photography 46",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759056882/IMG_20230202_171644458_1_-02_ir8poe.jpg"
+  },
+  {
+    "id": 47,
+    "title": "About Image 47",
+    "description": "Beautiful gallery image showcasing amazing moments",
+    "url": "https://res.cloudinary.com/dupaocjvt/image/upload/v1759042510/about_bcwohq.jpg"
   }
 ]
